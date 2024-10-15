@@ -1,1 +1,12 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.line1 {
+  text-align: center;
+  font-size: large;
+  margin-top: 40vh;
+}
+.line2 {
+  text-align: center;
+  font-size: xx-large;
+  font-weight: 600;
+}
